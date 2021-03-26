@@ -16,6 +16,7 @@
 		83E5FDDE25790EB900A20801 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 83E5FDDD25790EB900A20801 /* main.m */; };
 		83E5FDE825790EBA00A20801 /* _3__Properties__Part_1_Tests.m in Sources */ = {isa = PBXBuildFile; fileRef = 83E5FDE725790EBA00A20801 /* _3__Properties__Part_1_Tests.m */; };
 		83E5FDF325790EBA00A20801 /* _3__Properties__Part_1_UITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 83E5FDF225790EBA00A20801 /* _3__Properties__Part_1_UITests.m */; };
+		83E5FE0525790F9600A20801 /* DSBoxer.m in Sources */ = {isa = PBXBuildFile; fileRef = 83E5FE0425790F9600A20801 /* DSBoxer.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -54,6 +55,8 @@
 		83E5FDEE25790EBA00A20801 /* 03. Properties (Part 1)UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "03. Properties (Part 1)UITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		83E5FDF225790EBA00A20801 /* _3__Properties__Part_1_UITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = _3__Properties__Part_1_UITests.m; sourceTree = "<group>"; };
 		83E5FDF425790EBA00A20801 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		83E5FE0325790F9600A20801 /* DSBoxer.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DSBoxer.h; sourceTree = "<group>"; };
+		83E5FE0425790F9600A20801 /* DSBoxer.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DSBoxer.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +109,8 @@
 			children = (
 				83E5FDCB25790EB600A20801 /* AppDelegate.h */,
 				83E5FDCC25790EB600A20801 /* AppDelegate.m */,
+				83E5FE0325790F9600A20801 /* DSBoxer.h */,
+				83E5FE0425790F9600A20801 /* DSBoxer.m */,
 				83E5FDCE25790EB600A20801 /* SceneDelegate.h */,
 				83E5FDCF25790EB600A20801 /* SceneDelegate.m */,
 				83E5FDD125790EB600A20801 /* ViewController.h */,
@@ -269,6 +274,7 @@
 				83E5FDD325790EB600A20801 /* ViewController.m in Sources */,
 				83E5FDCD25790EB600A20801 /* AppDelegate.m in Sources */,
 				83E5FDDE25790EB900A20801 /* main.m in Sources */,
+				83E5FE0525790F9600A20801 /* DSBoxer.m in Sources */,
 				83E5FDD025790EB600A20801 /* SceneDelegate.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
